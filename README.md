@@ -1,6 +1,6 @@
 ALX Simple Shell Team Project
 
-    This is an ALX collaboration project on Shell. We were tasked to create a simple shell that mimics the Bash shell. Our shell shall be called mysh
+    This is an ALX collaboration project on Shell. We were tasked to create a simple shell that mimics the Bash shell. Our shell shall be called hsh
 
 Project was completed using
 
@@ -22,7 +22,7 @@ General Requirement for project
 Description
 
 mysh is a simple UNIX command language interpreter that reads commands from either a file or standard input and executes them.
-How mysh works
+How hsh works
 
     Prints a prompt and waits for a command from the user
     Creates a child process in which the command is checked
@@ -35,4 +35,4 @@ How mysh works
 
 Compilation
 
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o mysh
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
